@@ -65,7 +65,7 @@ fun Treatments(){
 //
 //    }
 
-    Column(modifier = Modifier.padding(6.dp)) {
+    Column(modifier = Modifier.padding(12.dp)) {
         Text(text = "Find your treatment", fontWeight = FontWeight.Bold)
 //        Spacer(modifier = Modifier.height(10.dp))
         Row(){
