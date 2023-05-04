@@ -153,7 +153,7 @@ fun PhysiotherapistProfile() {
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
             )
         }
-        Spacer(modifier = Modifier.height(20.dp))
+        Spacer(modifier = Modifier.height(45.dp))
         Box(
             modifier = Modifier.fillMaxWidth()
         ) {
@@ -171,7 +171,7 @@ fun PhysiotherapistProfile() {
             }
         }
 
-        Spacer(modifier = Modifier.height(20.dp))
+        Spacer(modifier = Modifier.height(25.dp))
 
         Box(modifier = Modifier
             .fillMaxWidth()
